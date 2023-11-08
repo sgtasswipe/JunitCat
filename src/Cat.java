@@ -1,7 +1,7 @@
 public class Cat {
   private String name; // Must NOT be null and must NOT be empty
   private char gender; // Must be either 'M' or 'F'
-  private double weightInKg; // Must be greater than zero AND lower than or equal to 10
+  private double weightInKg; // Must be greater than zero AND lower than or equal to 10 a
 
   public Cat(String name, char gender, double weightInKg) {
     this.name = name;
